@@ -1,4 +1,4 @@
-Jack G. Conrad
+.
 
 Experience
 ---------
@@ -24,7 +24,7 @@ Skills
 
 **Python Tools:** Jupyter Notebook, Scikit-learn, Pandas, Numpy, Spacy, Seaborn, Matplotlib
 
-**Cloud-based Resources** AWS, Sagemaker, Jupyter Notebook
+**Cloud-based Resources** AWS, Sagemaker
 
 Education
 ---------
