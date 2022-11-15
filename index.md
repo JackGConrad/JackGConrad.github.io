@@ -2,17 +2,21 @@
 
 Experience
 ---------
-**Director, Applied Research, TR Labs, Thomson Reuters** (2016-present, Minnepolis, MN, USA)
+**Director, Applied Research, TR Labs, Thomson Reuters** (2017-present) Minnepolis, MN, USA
 
 - Focus on a broad range of technical application areas involving artificial intelligence, machine learning and textual data processing
 
-**Lead Research Scientist, R&D/C3, Thomson Reuters** (2013-2016, Minneapolis, MN, USA)
+**Lead Research Scientist, R&D/C3, Thomson Reuters** (2013-2016) Minneapolis, MN, USA
 
-- Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.
+- Delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.
 
-**Lead Research Scientist, Catalyst Lab, Thomson Reuters** (2011-2013, Baar, ZG, Switzerland)
+**Lead Research Scientist, Catalyst Lab, Thomson Reuters** (2011-2013) Baar, ZG, Switzerland
 
-- Foster cross-group collaboration and communication in the process of implementing and deploying technology to meet business needs.
+- Fostered cross-group collaboration and communication in the process of implementing and deploying technology to meet business needs.
+
+**Senior Research Scientist, R&D, Thomson Reuters** (2008-2011) Minnepolis, MN, USA 
+
+- Researched and implemented technologies for search and entity-resolution-related applications in large operational environments (leveraging technologies such as information clustering, information retrieval, and information extraction).
 
 Skills
 ------
@@ -41,6 +45,7 @@ Education
 - Minor: English
 - Honor Societies: Eta Kappa Nu (Electrical Engineering) , Tau Beta Pi (Engineering), Alpha Sigma Nu (Jesuit)
 - Internship: 3M Company, over 6 semesters during last 3 years of degree program
+- Student Council Representative
 
 Languages
 ---------
