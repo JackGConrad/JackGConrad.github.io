@@ -1,19 +1,4 @@
-Jack G. Conrad
 
-Education
----------
-**M.S. in Computer Science, University of Massachusetts--Amherst** 1994
-
-- Specialization in Information Retrieval
-- Thesis and person-company entity searchaccepted as full-length paper and published at SIGIR
-
-**M.A. in English/Lingustics, University of British Columbia--Vacouver** 1984
-
-- Taught first-year English course at UBC for 3 years during degree work
-
-**B.S. in Electrical Engineering, MArquette University** 1980
-
-- Interned with 3M over 5 semesters during last 3 years of degree program
 
 Experience
 ---------
@@ -36,6 +21,21 @@ Skills
 **Python Tools:** Jupyter Notebook, Scikit-learn, Pandas, Numpy, Spacy, Seaborn, Matplotlib
 
 **Cloud-based Resources** AWS, Sagemaker, Jupyter Notebook
+
+Education
+---------
+**M.S. in Computer Science, University of Massachusetts--Amherst** 1994
+
+- Specialization in Information Retrieval
+- Thesis and person-company entity searchaccepted as full-length paper and published at SIGIR
+
+**M.A. in English/Lingustics, University of British Columbia--Vacouver** 1984
+
+- Taught first-year English course at UBC for 3 years during degree work
+
+**B.S. in Electrical Engineering, MArquette University** 1980
+
+- Interned with 3M over 5 semesters during last 3 years of degree program
 
 Langusges
 ---------
