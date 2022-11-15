@@ -33,9 +33,12 @@ Education
 
 - Taught first-year English course at UBC for 3 years during degree work
 
-**B.S. in Electrical Engineering, MArquette University** 1980
+**B.S. in Electrical Engineering, Marquette University** (Milwaukee, WI) 1980
 
-- Interned with 3M over 5 semesters during last 3 years of degree program
+- Honors: Summa Cum Laude
+- Minor: English
+- Honor Societies: Eta Kappa Nu (Electrical Engineering) , Tau Beta Pi (Engineering), Alpha Sigma Nu (Jesuit)
+- Internship: 3M Company, over 6 semesters during last 3 years of degree program
 
 Langusges
 ---------
