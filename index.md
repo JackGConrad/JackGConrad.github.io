@@ -42,7 +42,7 @@ Education
 - Honor Societies: Eta Kappa Nu (Electrical Engineering) , Tau Beta Pi (Engineering), Alpha Sigma Nu (Jesuit)
 - Internship: 3M Company, over 6 semesters during last 3 years of degree program
 
-Langusges
+Languages
 ---------
 
 - English: native speaker
