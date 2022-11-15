@@ -57,11 +57,11 @@ Languages
 Awards
 ------
 
-- Thomson Reuters Community Champion Award, 1st Place (2012), in support of the Young Heroes Foundation of Swaziland.
+- **Thomson Reuters Community Champion Award**, 1st Place (2012), in support of the Young Heroes Foundation of Swaziland.
 
-- EarthShares Champion of the Year (2000), for work to expand choice in company’s Employee Giving Campaign.
+- **EarthShares Champion of the Year** (2000), for work to expand choice in company’s Employee Giving Campaign.
 
-- Sargent Shriver Peace Worker of the Year, one of two finalists (1990), for secondary school teaching and rural water project successes while serving in the U.S. Peace Corps in southern and West Africa.
+- **Sargent Shriver Peace Worker of the Year**, one of two finalists (1990), for secondary school teaching and rural water project successes while serving in the U.S. Peace Corps in southern and West Africa.
 
 
 Professional Community Service
