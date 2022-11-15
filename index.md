@@ -1,4 +1,4 @@
-Passionate about the power of AI transformation in enterprise environments.
+_Passionate about the power of AI transformation in enterprise environments._
 
 Experience
 ---------
@@ -41,7 +41,7 @@ Education
 
 **B.S. in Electrical Engineering, Marquette University** (Milwaukee, WI) 1980
 
-- Honors: Summa Cum Laude
+- Honors: _Summa Cum Laude_
 - Minor: English
 - Honor Societies:
   - Eta Kappa Nu (Electrical Engineering)
