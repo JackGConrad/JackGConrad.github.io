@@ -1,3 +1,5 @@
+Jack G. Conrad
+
 Education
 ---------
 **M.S. in Computer Science, University of Massachusetts--Amherst** 1994
@@ -34,6 +36,13 @@ Skills
 **Python Tools:** Jupyter Notebook, Scikit-learn, Pandas, Numpy, Spacy, Seaborn, Matplotlib
 
 **Cloud-based Resources** AWS, Sagemaker, Jupyter Notebook
+
+Langusges
+---------
+
+- English: native speaker
+
+- French: conversationl
 
 Awards
 ------
