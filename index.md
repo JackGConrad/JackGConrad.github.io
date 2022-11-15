@@ -17,15 +17,15 @@ Experience
 ---------
 **Director, Applied Research, TR Labs, Thomson Reuters** (2016-present, Minnepolis, MN, USA)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Focus on a broad range of technical application areas involving artificial intelligence, machine learning and textual data processing
 
 **Lead Research Scientist, R&D/C3, Thomson Reuters** (2013-2016, Minneapolis, MN, USA)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.
 
 **Lead Research Scientist, Catalyst Lab, Thomson Reuters** (2011-2013, Baar, ZG, Switzerland)
 
-- 
+- Foster cross-group collaboration and communication in the process of implementing and deploying technology to meet business needs.
 
 Skills
 ------
@@ -37,9 +37,13 @@ Skills
 
 Awards
 ------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+
+- Thomson Reuters Community Champion Award, 1st Place (2012), in support of the Young Heroes Foundation of Swaziland.
+
+- EarthShares Champion of the Year (2000), for work to expand choice in company’s Employee Giving Campaign.
+
+- Sargent Shriver Peace Worker of the Year, one of two finalists (1990), for secondary school teaching and rural water project successes while serving in the U.S. Peace Corps in southern and West Africa.
+
 
 Professional Community Service
 ------------------------------
@@ -47,11 +51,11 @@ Professional Community Service
 **Executive Committees**
 
 - International Association for Artificial Intelligence and Law (IAAIL.org)
-- President (2014-2015), Vice-President (2012-2113), Executive Committee (2008-2011), Nominations Committee (2016-2017)
+- President (2014-2015), Vice-President (2012-2013), Executive Committee (2008-2011), Nominations Committee (2016-2017)
 
-** Journal Editorial Boards**
+**Journal Editorial Boards**
 
-- Artificial Intelligence and Law
+- __Artificial Intelligence and Law__
 
 **Conference Review Committees**
 
@@ -76,6 +80,30 @@ Publications
 
 - Jack G. Conrad, Jochen L. Leidner, Frank Schilder and Ravi Kondadadi, Query-based Opinion Summarization for Legal Blog Entries, In __Proceedings of the 12th International Conference on Artificial Intelligence and Law (ICAIL 2009)__ (Barcelona, Spain), ACM Press, New York, pp. 167-176, 2009.
 
+- Frank Schilder, Ravi Kondadadi, Jochen Leidner and Jack G. Conrad, Thomson Reuters at TAC 2008: Aggressive Filtering with FastSum for Update and Opinion Summarization, In __Proceedings of the First Text Analysis Conference (TAC08)__ (Gaithersburg, MD), NIST, Washington, D.C., Nov. 2008.
+
+- Jack G. Conrad and Frank Schilder, Opinion Mining in Legal Blogs, In __Proceedings of the 11th International Conference on Artificial Intelligence and Law (ICAIL 2007)__ (Stanford University, Palo Alto, CA), ACM Press, New York, pp. 231-236, 2007.
+
+- Jack G. Conrad and Edward L. Raymond, Jr., Essential Deduplication Functions for Transactional Databases in Law Firms, In _Proceedings of the 11th International Conference on Artificial Intelligence and Law (ICAIL 2007)__ (Stanford University, Palo Alto, CA), ACM Press, New York, pp. 261-270, 2007.
+
+- Jack G. Conrad, Khalid Al-Kofahi, Ying Zhao and George Karypis, Effective Document Clustering for Large Heterogeneous Law Firm Collections, In __Proceedings of the 10th International Conference on Artificial Intelligence and Law (ICAIL 2005)__ (Bologna, Italy), ACM Press, New York, pp. 177-187, 2005.
+
+- Jack G. Conrad and Cindy P. Schriber, Constructing a Text Corpus for Inexact Duplicate Detection, In __Proceedings of the 27th Annual International ACM-SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2004)__ (Sheffield, England), ACM Press, New York, pp. 582-583, 2004.
+
+- Jack G. Conrad, Xi S. Guo, and Cindy P. Schriber, Online Duplicate Document Detection: Signature Reliability in a Dynamic Retrieval Environment, In __Proceedings of the 2003 ACM-CIKM Twelfth International Conference on Information and Knowledge Management (CIKM 2003)__ (New Orleans, Louisiana), ACM Press, New York, pp. 243-252, 2003.
+
+- Jack G. Conrad and Joanne S. Claussen, Client-System Collaboration in Legal Corpus Selection in a Large Production Environment, In __Proceedings of 9th International Conference on Artificial Intelligence and Law (ICAIL 2003)__ (Edinburgh, Scotland), ACM Press, New York, pp. 262-273, 2003.
+
+- Jack G. Conrad, Changwen Yang, and Joanne S. Claussen, Global vs. Localized Search: A Comparison of Database Selection Methods in a Hierarchical Environment, In __Proceedings of the 2002 Annual Meeting of the American Society for Information Science and Technology (ASIST 2002)__ (Washington, D.C.), Information Today, Medford, NJ, pp. 130-139, 2002.
+
+- Jack G. Conrad, Changwen Yang, and Joanne S. Claussen, Effective Collection Metasearch in a Hierarchical Environment: Global vs. Localized Retrieval Performance, In __Proceedings of the 25th Annual International ACM-SIGIR Conference on Research & Development in Information Retrieval (SIGIR 2002)__ (Tampere, Finland), Springer-Verlag, London, pp. 371-372, 2002.
+
+- Jack G. Conrad, Xi S. Guo, Peter Jackson, and Monem Meziou, Database Selection Using Complete Physical and Acquired Logical Collection Resources in a Massive Domain-Specific Operational Environment, In __Proceedings of the 28th International Conference on Very Large Databases (VLDB 2002)__ (Hong Kong), pp. 71-82, 2002.
+
+- Jack G. Conrad and Daniel P. Dabney, Automatic Recognition of Distinguishing Negative Indirect History Language in Judicial Opinions, In __Proceedings of the 2001 ACM-CIKM Tenth International Conference on Information and Knowledge Management (CIKM 2001)__ (Atlanta, Georgia), ACM Press, New York, pp. 287-294, 2001.
+
+- Jack G. Conrad and Daniel P. Dabney, A Cognitive Approach to Judicial Opinion Structure: Applying Domain Expertise to Component Analysis, In __Proceedings of 8th International Conference on Artificial Intelligence and Law (ICAIL 2001)__ (St. Louis, Missouri), ACM Press, New York, pp. 1-11, 2001.
+
 Journal Articles
 ----------------
 
@@ -93,6 +121,24 @@ Journal Articles
 
 - Jack G. Conrad and Joanne R.S. Claussen, Early User-System Interaction for Database Selection in Massive Domain-specific Online Environments, __Transactions on Information Systems (TOIS)__, 21(1), ACM Press, New York, pp. 94-131, 2003.
 
+Workshop Papers/Presentations
+-----------------------------
+
+- Jack G. Conrad and Jeremy Pickens, Introduction to LegalAIIA 2021, __Proceedings of the Second International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace (ICAIL 2021 Workshop -- LegalAIIA)__ (Sao Paulo, Brazil), CEUR-WS Online, pp. 1- , 2021.
+
+- Jack G. Conrad and Jeremy Pickens, Introduction to LegalAIIA 2019, __Proceedings of the First International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace (ICAIL 2019 Workshop -- LegalAIIA)__ (Montreal, QB, Canada), CEUR-WS Online, pp. 1- , 2019.
+
+- Jack G. Conrad, 30 Years of AI and Law: Legal Data Analytics in the Long View — Looking Back, Looking Forward at the __First International Workshop on Legal Data Analytics and Mining (LeDAM)__, co-located with the 27th ACM International Conference on Information and Knowledge Management (CIKM 2018), (Torino, Italy), Oct. 22, 2018.
+
+- Jack G. Conrad and Michael Bender, Semi-Supervised Events Clustering in News Retrieval, __Proceedings of the First International Workshop on Recent Trends in News Retrieval (NewsIR'16)__, in conjunction with ECIR 2016 (Padua, Italy), CEUR-WS Online, pp. 21-26, 2016.
+
+- Jack G. Conrad, Jochen L. Leidner, Frank Schilder, Professional Credibility: Authority on the Web, __Proceedings of the Second Workshop on Information Credibility on the Web (CIKM08 Credibility Workshop -- WICOW08)__ (Napa Valley, CA), ACM Press, pp. 85-88, 2008.
+
+- Jack G. Conrad, Tonya Custis, Christopher Dozier, Terry Heinze, Marc Light, Sriharsha Veeramachaneni, Linking, Mapping, and Clustering Entity Records in Information-based Solutions for Business and Professional Customers, In __Proceedings of the Workshop on Resources and Evaluation for Identity Matching, Entity Resolution and Entity Management at the Sixth International Conference on Language Resources and Evaluation (LREC 2008 -- Linking Workshop)__, (Marrakech, Morocco), ELRA Press, 8 pgs, 2008.
+
+- Jack G. Conrad, E-Discovery Revisited: A Broader Perspective for IR Researchers, In __Proceedings of the Workshop on Supporting Search and Sensemaking for Electronically Stored Information in Discovery at 11th International Conference on Artificial Intelligence and Law (ICAIL 2007 DESI Workshop)__ (Stanford University, Palo Alto, CA), DESI Press, pp. 25-27, 2007.
+
+- Jack G. Conrad and Joanne S. Claussen, Validation: A Critical First Step in the Evaluation of Systems for Legal Corpus Determination, __Workshop on Evaluation at 9th International Conference on Artificial Intelligence and Law (ICAIL 2003--Evaluation Workshop)__ (Edinburgh, Scotland), ACM Press, pp. 1-9, 2003.
 
 Patents
 -------
