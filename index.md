@@ -55,7 +55,7 @@ Languages
 
 - English: native speaker
 
-- French: conversationl
+- French: conversational
 
 Awards
 ------
