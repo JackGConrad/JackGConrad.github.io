@@ -1,7 +1,7 @@
-<p style="text-align: center;"> 782 Sunset Drive, Eagan, MN 55123 USA </p>
-<p style="text-align: center;">+1 (612).790.4082 </p>
-<p style="text-align: center;">jackgconrad@gmail.com </p>
-<p style="text-align: center;">Twitter: JackGConrad </p>
+<p style="text-align: center;"> 782 Sunset Drive, Eagan, MN 55123 USA </br>
+                               +1 (612).790.4082     </br>
+                               jackgconrad@gmail.com </br>
+                               Twitter: JackGConrad  </p>
 ___
 
 _Passionate about the power of AI transformation in enterprise environments._
