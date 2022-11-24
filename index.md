@@ -1,19 +1,28 @@
-<img src="https://fontawesome.com/icons/house?s=solid&f=classic"
-  width="128"
-  height="128"
-  style="float:left;"> 782 Sunset Drive, Eagan, MN 55123 USA <br/>
-<img src="https://fontawesome.com/icons/phone?s=solid&f=classic""
-  width="128"
-  height="128"
-  style="float:left;"> +1 (612).790.4082                   <br/>
-<img src="https://fontawesome.com/icons/letter?s=solid&f=classic""
-  width="128"
-  height="128"
-  style="float:left;"> jackgconrad@gmail.com              <br/>
-<img src="https://fontawesome.com/icons/twitter?s=solid&f=classic""
-  width="128"
-  height="128"
-  style="float:left;"> JackGConrad                      <br/>
+```{image} ./icons/home-page.png
+:class: bg-primary mb-1
+:width: 50px
+:height: 50px
+:align: center
+```  782 Sunset Drive, Eagan, MN 55123 USA <br/>
+```{image} ./icons/phone.png
+:class: bg-primary mb-1
+:width: 50px
+:height: 50px
+:align:	center
+```  +1 (612).790.4082 <br/>
+```{image} ./icons/phone.png
+:class: bg-primary mb-1
+:width: 50px
+:height: 50px
+:align: center
+```  jackgconrad@gmail.com <br/>
+```{image} ./icons/twitter.png
+:class: bg-primary mb-1
+:width: 50px
+:height: 50px
+:align: center
+```  JackGConrad  <br/>
+
 ___
 
 _Passionate about the power of AI transformation in enterprise environments._
