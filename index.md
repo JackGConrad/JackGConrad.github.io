@@ -1,4 +1,4 @@
-<img src="https://https://fontawesome.com/icons/house?s=solid&f=classic"
+<img src="https://fontawesome.com/icons/house?s=solid&f=classic"
   width="128"
   height="128"
   style="float:left;"> 782 Sunset Drive, Eagan, MN 55123 USA <br/>
