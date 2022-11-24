@@ -1,32 +1,7 @@
-```{image} ./icons/home-page.png
-:class: bg-primary mb-1
-:width: 50px
-:height: 50px
-:align: center
-```
-782 Sunset Drive, Eagan, MN 55123 USA <br/>
-```{image} ./icons/phone.png
-:class: bg-primary mb-1
-:width: 50px
-:height: 50px
-:align:	center
-```
-+1 (612).790.4082 <br/>
-```{image} ./icons/envelope-icon.png
-:class: bg-primary mb-1
-:width: 50px
-:height: 50px
-:align: center
-```
-jackgconrad@gmail.com <br/>
-```{image} ./icons/icons8-twitter-48
-:class: bg-primary mb-1
-:width: 50px
-:height: 50px
-:align: center
-```
-JackGConrad  <br/>
-
+<p style="text-align: center;"> 782 Sunset Drive, Eagan, MN 55123 USA </p>
+<p style="text-align: center;">+1 (612).790.4082 </p>
+<p style="text-align: center;">jackgconrad@gmail.com </p>
+<p style="text-align: center;">Twitter: JackGConrad </p>
 ___
 
 _Passionate about the power of AI transformation in enterprise environments._
