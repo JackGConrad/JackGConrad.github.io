@@ -1,5 +1,5 @@
 <p style="text-align: center;"> 782 Sunset Drive, Eagan, MN 55123 USA <br/>
-                               +1 (612).790.4082     <br/>
+                               +1 612.790.4082     <br/>
                                jackgconrad@gmail.com <br/>
                                Twitter: JackGConrad  </p>
 ___
