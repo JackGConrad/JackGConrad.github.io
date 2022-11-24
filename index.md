@@ -3,25 +3,29 @@
 :width: 50px
 :height: 50px
 :align: center
-```  782 Sunset Drive, Eagan, MN 55123 USA <br/>
+```
+782 Sunset Drive, Eagan, MN 55123 USA <br/>
 ```{image} ./icons/phone.png
 :class: bg-primary mb-1
 :width: 50px
 :height: 50px
 :align:	center
-```  +1 (612).790.4082 <br/>
-```{image} ./icons/phone.png
+```
++1 (612).790.4082 <br/>
+```{image} ./icons/envelope-icon.png
 :class: bg-primary mb-1
 :width: 50px
 :height: 50px
 :align: center
-```  jackgconrad@gmail.com <br/>
-```{image} ./icons/twitter.png
+```
+jackgconrad@gmail.com <br/>
+```{image} ./icons/icons8-twitter-48
 :class: bg-primary mb-1
 :width: 50px
 :height: 50px
 :align: center
-```  JackGConrad  <br/>
+```
+JackGConrad  <br/>
 
 ___
 
