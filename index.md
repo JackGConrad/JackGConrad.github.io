@@ -1,8 +1,19 @@
-
-![fa-con](https://fontawesome.com/icons/home) 782 Sunset Drive, Eagan, MN 55123 USA <br/>
-![fa-con](https://fontawesome.com/icons/phone)  +1 (612).790.4082                   <br/>
-![fa-con](https://fontawesome.com/icons/letter)  jackgconrad@gmail.com              <br/>
-![fa-con](https://fontawesome.com/icons/twitter)   JackGConrad                      <br/>
+<img src="https://fontawesome.com/icons/home.png"
+  width="128"
+  height="128"
+  style="float:left;"> 782 Sunset Drive, Eagan, MN 55123 USA <br/>
+<img src="https://fontawesome.com/icons/phone.png"
+  width="128"
+  height="128"
+  style="float:left;"> +1 (612).790.4082                   <br/>
+<img src="https://fontawesome.com/icons/phone.png"
+  width="128"
+  height="128"
+  style="float:left;"> jackgconrad@gmail.com              <br/>
+<img src="https://fontawesome.com/icons/twitter.png"
+  width="128"
+  height="128"
+  style="float:left;"> JackGConrad                      <br/>
 ___
 
 _Passionate about the power of AI transformation in enterprise environments._
