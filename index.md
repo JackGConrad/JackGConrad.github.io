@@ -1,16 +1,16 @@
-<img src="https://fontawesome.com/icons/home"
+<img src="https://https://fontawesome.com/icons/house?s=solid&f=classic"
   width="128"
   height="128"
   style="float:left;"> 782 Sunset Drive, Eagan, MN 55123 USA <br/>
-<img src="https://fontawesome.com/icons/phone"
+<img src="https://fontawesome.com/icons/phone?s=solid&f=classic""
   width="128"
   height="128"
   style="float:left;"> +1 (612).790.4082                   <br/>
-<img src="https://fontawesome.com/icons/letter"
+<img src="https://fontawesome.com/icons/letter?s=solid&f=classic""
   width="128"
   height="128"
   style="float:left;"> jackgconrad@gmail.com              <br/>
-<img src="https://fontawesome.com/icons/twitter"
+<img src="https://fontawesome.com/icons/twitter?s=solid&f=classic""
   width="128"
   height="128"
   style="float:left;"> JackGConrad                      <br/>
