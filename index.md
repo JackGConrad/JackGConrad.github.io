@@ -41,7 +41,7 @@ Education
 - Research Assistantship with Prof. Bruce W. Croft (2 years)
 - Teaching Assistantship with Dr. Bill Verts (1 year)
 
-**M.A. in English/Lingustics, University of British Columbia--Vacouver** 1984
+**M.A. in English/Linguistics, University of British Columbia--Vacouver** 1984
 
 - Teaching Assistantship: Taught first-year English course at UBC during degree work (3 years)
 
