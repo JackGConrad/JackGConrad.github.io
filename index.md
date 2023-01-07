@@ -168,6 +168,13 @@ Workshop Papers/Presentations
 
 - Jack G. Conrad and Joanne S. Claussen, Validation: A Critical First Step in the Evaluation of Systems for Legal Corpus Determination, _Workshop on Evaluation at 9th International Conference on Artificial Intelligence and Law (ICAIL 2003--Evaluation Workshop)_ (Edinburgh, Scotland), ACM Press, pp. 1-9, 2003.
 
+Tutorials
+---------
+
+- Debasis Ganguly, Jack G. Conrad, Kripabandhu Ghosh, Saptarshi Ghosh, Pawan Goyal, Paheli Bhattacharya, Shubham Kumar Nigam, Shounak Paul, Legal IR and NLP: the History, Challenges, and State-of-the-Art, _Proceedings of the 45th European Conference on Information Retrieval (ECIR 2023)_ (Dublin, Ireland), ACM Press, 8 pages, 2023.
+
+- Jack G. Conrad, Saptarshi Ghosh, Shounak Paul, Shirsha Ray Chaudhuri, AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities, _Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD) (CODS-COMAD 2023)_ (Mumbai, India), ACM Press, pp. 320-323, 2023.
+
 Patents
 -------
 
