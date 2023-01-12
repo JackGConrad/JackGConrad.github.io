@@ -171,9 +171,11 @@ Workshop Papers/Presentations
 Tutorials
 ---------
 
-- Debasis Ganguly, Jack G. Conrad, Kripabandhu Ghosh, Saptarshi Ghosh, Pawan Goyal, Paheli Bhattacharya, Shubham Kumar Nigam, Shounak Paul, Legal IR and NLP: the History, Challenges, and State-of-the-Art, _Proceedings of the 45th European Conference on Information Retrieval (ECIR 2023)_ (Dublin, Ireland), ACM Press, 8 pages, 2023.
+- Debasis Ganguly, Jack G. Conrad, Kripabandhu Ghosh, Saptarshi Ghosh, Pawan Goyal, Paheli Bhattacharya, Shubham Kumar Nigam, Shounak Paul, Legal IR and NLP: the History, Challenges, and State-of-the-Art, _Proceedings of the 45th European Conference on Information Retrieval (ECIR 2023)_ (Dublin, Ireland), ACM Press, 8 pages, April 6, 2023.
 
-- Jack G. Conrad, Saptarshi Ghosh, Shounak Paul, Shirsha Ray Chaudhuri, AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities, _Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD) (CODS-COMAD 2023)_ (Mumbai, India), ACM Press, pp. 320-323, 2023.
+- Jack G. Conrad, Saptarshi Ghosh, Shounak Paul, Shirsha Ray Chaudhuri, AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities, _Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD) (CODS-COMAD 2023)_ (Mumbai, India), ACM Press, pp. 320-323, January 4, 2023.
+
+- Jack G. Conrad, 30 Years of AI and Law: Legal Data Analytics in the Long View – Looking Back, Looking Forward, _Symposium on Artificial Intelligence and Law (SAIL 2021)_, Indian Institute of Technology (IIT), June 1, 2021.  
 
 Patents
 -------
