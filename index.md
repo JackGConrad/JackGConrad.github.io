@@ -8,7 +8,7 @@ _Passionate about the power of AI transformation in enterprise environments._
 
 Experience
 ---------
-**Director, Applied Research, TR Labs, Thomson Reuters** (2017-present) Minnepolis, MN, USA
+**Director, Applied Research, TR Labs, Thomson Reuters** (2017-present) Minneapolis, MN, USA
 
 - Focus on a broad range of technical application areas involving artificial intelligence, machine learning and textual data processing
 
