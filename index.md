@@ -2,6 +2,8 @@
                                +1 612.790.4082     <br/>
                                jackgconrad@gmail.com <br/>
                                Twitter: JackGConrad  </p>
+                               <a class="twitter-timeline" href="https://twitter.com/JackGConrad"> </a>
+
 ___
 
 _Passionate about the power of AI transformation in enterprise environments._
