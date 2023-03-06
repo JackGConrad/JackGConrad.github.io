@@ -92,6 +92,8 @@ Professional Community Service
 Publications
 ------------
 
+- Dell Zhang, Frank Schilder, Jack G. Conrad, Masoud Makrehchi, et al., Making a Computational Attorney, To Appear in _Proceedings of the SIAM International Conference on Data Mining (SDM 2023)_, Blue Sky Track (Minneapolis, MN USA), SIAM Press, 2023.
+
 - Andrew Vold and Jack G. Conrad, Using Transformers to Improve Answer Retrieval for Legal Questions, In _Proceedings of the 18th International Conference on Artificial Intelligence and Law (ICAIL 2021)_ (Sao Paulo, Brazil) [Online], ACM Press, 245-249, 2021.
 
 - Filippo Pompili, Jack G. Conrad and Carter Kolbeck, Exploiting Search Logs to Aid in Training and Automating Infrastructure for Question Answering in Professional Domains, In _Proceedings of the 17th International Conference on Artificial Intelligence and Law (ICAIL 2019)_ (Montreal, QB), ACM Press, pp. 93-102, 2019.
@@ -180,21 +182,21 @@ Tutorials
 Patents
 -------
 
-- Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, U.S. Patent Number 11,449,218, September 20, 2022.
+1. Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, U.S. Patent Number 11,449,218, September 20, 2022.
 
-- Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, U.S. Patent Number 11,222,027, January 11, 2022.
+2. Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, U.S. Patent Number 11,222,027, January 11, 2022.
 
-- Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, U.S. Patent Number 10,650,058, May 12, 2020.
+3. Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, U.S. Patent Number 10,650,058, May 12, 2020.
 
-- Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, U.S. Patent Number 9,600,509, May 21, 2017.
+4. Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, U.S. Patent Number 9,600,509, May 21, 2017.
 
-- Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, U.S. Patent Number 9,483,472, November 1, 2016.
+5. Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, U.S. Patent Number 9,483,472, November 1, 2016.
 
-- Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, U.S. Patent Number 9,436,665, September 6, 2016.
+6. Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, U.S. Patent Number 9,436,665, September 6, 2016.
 
-- Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, U.S. Patent Number 9,367,604, June 14, 2016.
+7. Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, U.S. Patent Number 9,367,604, June 14, 2016.
 
-- Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, U.S. Patent Number 7,809,695, October 5, 2010.
+8. Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, U.S. Patent Number 7,809,695, October 5, 2010.
 
 Patent Applications
 -------------------
