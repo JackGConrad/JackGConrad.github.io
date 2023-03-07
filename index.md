@@ -79,7 +79,7 @@ Professional Community Service
 **Executive Committees**
 
 - International Association for Artificial Intelligence and Law (IAAIL.org)
-- President (2014-2015), Vice-President (2012-2013), Executive Committee (2008-2011), Nominations Committee (2016-2017)
+  - President (2014-2015), Vice-President (2012-2013), Executive Committee (2008-2011), Nominations Committee (2016-2017)
 
 **Journal Editorial Boards**
 
@@ -87,7 +87,7 @@ Professional Community Service
 
 **Conference Review Committees**
 
-- SIGIR, CIKM, ISWC, ICAIL, JURIX
+- SIGIR, CIKM, ISWC, SAC, ICAIL, JURIX
 
 Publications
 ------------
