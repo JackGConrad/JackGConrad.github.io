@@ -1,6 +1,6 @@
 <p style="text-align: center;"> Minneapolis-Saint Paul, Minnesota USA <br/>
                                +1 612.790.4082     <br/>
-                               jackgconrad@gmail.com <br/>
+                               jackgconrad [AT] gmail [DOT] com <br/>
                                Twitter: JackGConrad  </p>
 ___
 
