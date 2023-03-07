@@ -157,7 +157,7 @@ Journal Articles
 Workshop Papers/Presentations
 -----------------------------
 
-- Jack G. Conrad and Daniel W. Linna Jr., Introduction to LegalAIIA 2023, _Proceedings of the Third International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace (ICAIL 2023 Workshop -- LegalAIIA)_ (Braga, Portugal), CEUR-WS Online, pp. 1- , 2023.
+- Jack G. Conrad and Daniel W. Linna Jr., Introduction to LegalAIIA 2023, To Appear in _Proceedings of the Third International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace (ICAIL 2023 Workshop -- LegalAIIA)_ (Braga, Portugal), CEUR-WS Online, pp. 1- , 2023.
 
 - Jack G. Conrad and Jeremy Pickens, Introduction to LegalAIIA 2021, _Proceedings of the Second International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace (ICAIL 2021 Workshop -- LegalAIIA)_ (Sao Paulo, Brazil), CEUR-WS Online, pp. 1- , 2021.
 
