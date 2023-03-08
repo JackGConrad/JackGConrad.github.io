@@ -1,3 +1,4 @@
+<div align="center">
 <table border="1">
    <tr>
       <p style="text-align: center;"> 
@@ -223,4 +224,5 @@ Patent Applications
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
   
    </tr>
-</table>
+   </table>
+   </div>
