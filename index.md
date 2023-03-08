@@ -3,9 +3,9 @@
   </thead>
   <tbody>
   <tr>
-    <td>
+    <td width="250">
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="500"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="1000"> <br>
     </p>
     </td>
     <td width="2400">
