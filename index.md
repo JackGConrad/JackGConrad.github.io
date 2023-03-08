@@ -14,14 +14,14 @@
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>      <br>
     </p> 
     </td>
-    <td>
-    <p align="left" width="500"> 
-    <sub><sup>Focus on a broad range of technical applications involving AI and ML for textual data. Delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains. Published more than 50 peer reviewed research papers and has eight patents. Past president of the International Association for Artificial Intelligence and Law (IAAIL.org). 8 years of service on Executive Committee. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering.</sup></sub>
+     <td>
+    <p align="center"> 
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175"> <br>
     </p>
     </td>
     <td>
-    <p align="center"> 
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175"> <br>
+    <p align="left" width="500"> 
+    Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers and has eight patents. Past president of the International Association for Artificial Intelligence and Law (IAAIL.org). 8 years of service on Executive Committee. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering.
     </p>
     </td>
   </tr>
@@ -164,7 +164,7 @@ Publications
 Journal Articles
 ----------------
 
-- Michał Araszkiewicz, Kevin Ashley, L. Karl Branting, Jack G. Conrad, Serena Villata, Adam Wyner, Thirty Years of Artificial Intelligence and Law: the Third Decade, [To appear in] _Journal of Artificial Intelligence and Law_, 30(4), Springer, Netherlands, 2022.
+- Michał Araszkiewicz, Kevin Ashley, L. Karl Branting, Jack G. Conrad, Serena Villata, Adam Wyner, Thirty Years of Artificial Intelligence and Law: the Third Decade, _Journal of Artificial Intelligence and Law_, 30(4), Springer, Netherlands, 2022.
 
 - Jack G. Conrad and L. Karl Branting, Introduction to the Special Issue on Artificial Intelligence and Law, _Journal of Artificial Intelligence and Law_, 26(2), Springer, Netherlands, pp. 98-101, May 2018.
 
