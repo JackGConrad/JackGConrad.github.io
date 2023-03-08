@@ -1,2 +1,5 @@
 title: Jack G. Conrad
 theme: jekyll-theme-cayman
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
