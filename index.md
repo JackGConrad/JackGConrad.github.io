@@ -5,18 +5,18 @@
   <tr>
     <td>
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175px"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175"> <br>
     </p>
     </td>
-    <td width="2000px">
+    <td width="240px">
     <p align="left"> 
     Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Past president of the International Association for Artificial Intelligence and Law (IAAIL.org). 8 years of service on Executive Committee. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering.
     </p>
     </td>
-    <td width="1200px">
+    <td width="1000px">
     <p align="left"> 
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> <sub><sup>MSP, MN USA</sup></sub> </a> <br>
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> <sub><sup>+1.612.790.4082</sup></sub> </a> <br>
+    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
+    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> +1.612.790.4082 </a> <br>
     <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
     <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>  <br>
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
