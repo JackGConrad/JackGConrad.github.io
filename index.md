@@ -1,6 +1,6 @@
 <div class="row" align="left">
-  <div class="col-md-4" markdown="1">
-  <p style="text-align:left;"> 
+  <div class="col-md-4" markdown="1" align="right">
+  <p style="text-align: right;"> 
   <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
   <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082  <br/>
   <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com <br/>
