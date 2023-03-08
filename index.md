@@ -3,9 +3,9 @@
   </thead>
   <tbody>
   <tr>
-    <td width="800">
+    <td width="600">
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="1500"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="500"> <br>
     </p>
     <p align="left"> 
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
