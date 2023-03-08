@@ -15,7 +15,7 @@
     </p> 
     </td>
     <td>
-    <p align="left"> 
+    <p align="left" width="500"> 
     Focus on a broad range of technical applications involving AI and ML for textual data. Delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains. Published more than 50 peer reviewed research papers and has eight patents. Past president of the International Association for Artificial Intelligence and Law (IAAIL.org). 8 years of service on Executive Committee. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering.
     </p>
     </td>
