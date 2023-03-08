@@ -9,7 +9,7 @@
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Email.png"></a>  <br/>
          <a href="https://www.linkedin.com/in/jackgconrad/">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/LinkedIn.png"></a>  <br/>
-         <a href="https://www.linkedin.com/in/jackgconrad/](https://dblp.org/pid/w/JackGConrad.html)">
+         <a href="https://www.linkedin.com/in/jackgconrad/](https://dblp.org/pid/w/JackGConrad.html">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/DBLP.png"></a>  <br/>       
        </p>
    ___
