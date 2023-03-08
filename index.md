@@ -1,5 +1,11 @@
-
 <table>
+  <style>
+  div {
+  max-width: 400px;
+  min-width: 100px;
+  background-color: powderblue;
+  }
+  </style>
   <thead>
   </thead>
   <tbody>
