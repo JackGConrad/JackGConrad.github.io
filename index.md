@@ -3,15 +3,15 @@
    <tr>
       <p style="text-align: left;"> 
          <a href="">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
+          <img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
          <a href="">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png" width="20"></a>  +1.612.790.4082  <br/>
+          <img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082  <br/>
          <a href="mailto:jackgconrad@gmail.com">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Email.png" width="20"></a> jackgconrad@gmail.com <br/>
+          <img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com <br/>
          <a href="https://www.linkedin.com/in/jackgconrad/">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/LinkedIn.png" width="20"></a>  <br/>
+          <img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>  <br/>
          <a href="https://dblp.org/pid/w/JackGConrad.html">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/DBLP.png" width="20"></a>  <br/>       
+          <img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>  <br/>       
        </p>
    ___
    </tr>
