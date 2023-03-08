@@ -15,9 +15,9 @@
     </p> 
     </td>
      <td>
-     
+     <p>
     <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175"> <br>
- 
+    </p>
     </td>
     <td>
     <p align="left" width="500"> 
