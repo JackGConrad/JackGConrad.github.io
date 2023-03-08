@@ -3,12 +3,12 @@
   </thead>
   <tbody>
   <tr>
-    <td width="250">
+    <td width="500">
     <p>
     <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="1000"> <br>
     </p>
     </td>
-    <td width="2400">
+    <td width="2000">
     <p align="left"> 
     Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Past president of the International Association for Artificial Intelligence and Law (IAAIL.org). 8 years of service on Executive Committee. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering.
     </p>
