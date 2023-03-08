@@ -27,8 +27,10 @@
   </tr>
   </tbody>
 </table>
-   
+
+<p align="center">
 _Passionate about the power of AI transformation in enterprise environments._
+</p>
 
 Experience
 ---------
