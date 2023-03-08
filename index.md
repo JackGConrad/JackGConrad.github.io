@@ -1,5 +1,5 @@
 <div align="left">
-<table border="1">
+  <table>
    <tr>
       <p style="text-align:left;"> 
          <a href="">
@@ -224,7 +224,7 @@ Patent Applications
 - Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170235820A1, August 17, 2017.
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
-     </p>
-   </tr>
-   </table>
+       </p>
+     </tr>
+    </table>
    </div>
