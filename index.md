@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 <table border="1">
    <tr>
-      <p style="text-align: left;"> 
+      <p style="text-align:left;"> 
          <a href="">
           <img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
          <a href="">
