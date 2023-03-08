@@ -5,7 +5,7 @@
   <tr>
     <td>
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="200"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="500"> <br>
     </p>
     </td>
     <td width="2400">
