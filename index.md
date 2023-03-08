@@ -1,6 +1,5 @@
-<div align="left">
-  <table>
-   <tr>
+<div class="row" align="left">
+  <div class="col-md-8" markdown="1">
       <p style="text-align:left;"> 
          <a href="">
           <img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
@@ -14,8 +13,8 @@
           <img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>  <br/>       
        </p>
    ___
-   </tr>
-   <tr>
+  </div>
+  <div class="col-md-8" markdown="1">
   
 <p style="text-align: left;"> 
    
@@ -225,6 +224,5 @@ Patent Applications
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
        </p>
-     </tr>
-    </table>
    </div>
+ </div>
