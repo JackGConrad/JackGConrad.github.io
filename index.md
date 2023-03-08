@@ -1,11 +1,9 @@
-<table>
-  <style>
-  div {
-  max-width: 400px;
-  min-width: 100px;
-  background-color: powderblue;
-  }
-  </style>
+<table style="width: 100%">
+  <colgroup>
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 60%;">
+    <col span="1" style="width: 20%;">
+  </colgroup>
   <thead>
   </thead>
   <tbody>
