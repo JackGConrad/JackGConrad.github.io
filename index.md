@@ -2,7 +2,7 @@
    <tr>
       <p style="text-align: center;"> 
          <a href="">
-          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png" width="20"></a>  Minneapolis-Saint Paul,Minnesota USA. <br/>
+          <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
          <a href="">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png" width="20"></a>  +1.612.790.4082  <br/>
          <a "mailto: jackgconrad@gmail.com">
