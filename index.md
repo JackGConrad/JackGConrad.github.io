@@ -1,8 +1,8 @@
 <table style="width: 100%">
   <colgroup>
-    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 18%;">
     <col span="1" style="width: 60%;">
-    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 22%;">
   </colgroup>
   <thead>
   </thead>
