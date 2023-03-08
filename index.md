@@ -1,6 +1,9 @@
 
-<div class="row">
-  <div class="col-md-6">
+<table>
+  <thead>
+  </thead>
+  <tbody>
+  <tr>
     <p align="left"> 
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> +1.612.790.4082 </a> <br>
@@ -9,13 +12,14 @@
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>      <br>
     </p> 
-  </div>
-  <div class="col-md-6">
+  </tr>
+  <tr>
     <p align="center"> 
     <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="75"> <br>
     </p>
-  </div>
-</div>
+  </tr>
+  </tbody>
+</table>
    
 _Passionate about the power of AI transformation in enterprise environments._
 
