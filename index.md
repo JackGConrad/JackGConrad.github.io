@@ -5,7 +5,7 @@
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png"></a> Minneapolis-Saint Paul,Minnesota USA. <br/>
          <a href="">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png"></a> +1.612.790.4082  <br/>
-         <a email="jackgconrad@gmail.com">
+         <a "mailto: jackgconrad@gmail.com">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Email.png"></a>  <br/>
          <a href="https://www.linkedin.com/in/jackgconrad/">
           <img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/LinkedIn.png"></a>  <br/>
