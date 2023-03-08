@@ -1,9 +1,15 @@
-<p style="text-align: center;"> Minneapolis-Saint Paul, Minnesota USA <br/>
-                               +1 612.790.4082     <br/>
-                               jackgconrad [AT] gmail [DOT] com <br/>
-                               Twitter: JackGConrad  </p>
+<table border="0">
+   <tr>
+<p style="text-align: center;"> 
+  [<img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png">](Minneapolis-Saint Paul, Minnesota USA) <br/>
+  [<img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png">](+1 612.790.4082)       <br/>
+  [<img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Email.png">](jackgconrad@gmail.com) <br/>
+  [<img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/LinkedIn.png">](https://www.linkedin.com/in/jackgconrad/) <br/>
+  [<img src="https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/DBLP.png">](https://dblp.org/pid/w/JackGConrad.html)) <br/>         
 ___
-
+   </tr>
+   <tr>
+  
 _Passionate about the power of AI transformation in enterprise environments._
 
 Experience
@@ -209,3 +215,6 @@ Patent Applications
 - Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170235820A1, August 17, 2017.
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
+  
+   </tr>
+</table>
