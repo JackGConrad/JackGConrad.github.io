@@ -2,6 +2,7 @@
 <div class="row">
   </div>
 -->
+|                                             |                    |
 |---------------------------------------------|--------------------|
 |  <p align="left"> <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA  <br>                 |      |
 |  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082 <br>                                  | ![](<img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="20">)|
