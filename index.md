@@ -2,12 +2,12 @@
 <div class="row">
   <div class="col-md-6">
   <p align="left"> 
-  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA
-  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082
-  <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com  <img  
-  <a href="www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"></a> JackGConrad 
-  <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>
-  <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a> 
+  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA  <br>
+  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082 <br>
+  <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com  <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="75"> <br>
+  <a href="www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"></a> JackGConrad   <br>
+  <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
+  <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>      <br>
   </p> 
   </div>
 <!---
