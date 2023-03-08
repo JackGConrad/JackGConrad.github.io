@@ -4,6 +4,7 @@
   </thead>
   <tbody>
   <tr>
+    <td>
     <p align="left"> 
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> +1.612.790.4082 </a> <br>
@@ -12,11 +13,12 @@
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>      <br>
     </p> 
-  </tr>
-  <tr>
+    </td>
+    <td>
     <p align="center"> 
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="75"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="200"> <br>
     </p>
+    </td>
   </tr>
   </tbody>
 </table>
