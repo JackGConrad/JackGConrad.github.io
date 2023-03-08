@@ -1,16 +1,5 @@
-<div class="row" align="left">
-  <div class="col-md-4" markdown="1" align="right">
-  <p style="text-align: right;"> 
-  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <br/>
-  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082  <br/>
-  <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com <br/>
-  <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>  <br/>
-  <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>  <br/>       
-  </p>
-   ___
-  </div>
-  <div class="col-md-8" markdown="1">
-  <p style="text-align: left;"> 
+
+  <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"></a>  MSP, MN USA <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"></a>  +1.612.790.4082 <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"></a> jackgconrad@gmail.com <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>  <br/>       
    
 _Passionate about the power of AI transformation in enterprise environments._
 
@@ -217,6 +206,4 @@ Patent Applications
 - Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170235820A1, August 17, 2017.
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
-  </p>
-  </div>
-</div>
+
