@@ -15,9 +15,9 @@
     </p> 
     </td>
      <td>
-    <p align="center"> 
+     
     <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="175"> <br>
-    </p>
+ 
     </td>
     <td>
     <p align="left" width="500"> 
@@ -54,7 +54,9 @@ Skills
 
 **Python Tools:** Jupyter Notebook, Scikit-learn, Pandas, Numpy, Spacy, Seaborn, Matplotlib
 
-**Cloud-based Resources** AWS, Sagemaker
+**Cloud-based Apoplications:** AWS resources, incl. Sagemaker
+
+**Project Management Tools:** AzureDevOps (ADO), Teams, Sharepoint
 
 Education
 ---------
