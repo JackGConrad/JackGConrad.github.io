@@ -1,12 +1,13 @@
-<table border="0">
+<table border="1">
    <tr>
 <p style="text-align: center;"> 
   [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Location.png)](Minneapolis-Saint Paul,Minnesota USA)   <br/>
-  [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png)](+1 612.790.4082)                            <br/>
+  [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Phone.png)](+1.612.790.4082)                            <br/>
   [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/Email.png)](jackgconrad@gmail.com)                       <br/>
   [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/LinkedIn.png)](https://www.linkedin.com/in/jackgconrad/) <br/>
-  [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/DBLP.png)](https://dblp.org/pid/w/JackGConrad.html))     <br/>         
-___
+  [![image](https://github.com/JackGConrad/JackGConrad.github.io/blob/main/icons/DBLP.png)](https://dblp.org/pid/w/JackGConrad.html)      <br/>         
+</p>
+   ___
    </tr>
    <tr>
   
