@@ -10,7 +10,7 @@
    ___
   </div>
   <div class="col-md-8" markdown="1">
-   <p style="text-align: left;"> 
+  <p style="text-align: left;"> 
    
 _Passionate about the power of AI transformation in enterprise environments._
 
