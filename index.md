@@ -15,7 +15,7 @@
     </p>
     </td>
     <td>
-    <p align="left"> 
+    <p align="left" width="1000"> 
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> +1.612.790.4082 </a> <br>
     <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
