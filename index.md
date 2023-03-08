@@ -20,8 +20,8 @@
     </td>
     <td>
     <p align="left" width="1000"> 
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> MSP, MN USA </a> <br>
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> +1.612.790.4082 </a> <br>
+    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"> <sub><sup>MSP, MN USA</sup></sub> </a> <br>
+    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"> <sub><sup>+1.612.790.4082</sup></sub> </a> <br>
     <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
     <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>  <br>
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
