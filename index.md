@@ -240,7 +240,7 @@ Patent Applications
 Extracurricular Activities
 --------------------------
 
-- Cycle 10K kms/yr
+- Cycle over 10,000 kms/yr
 
 - Have visited and hiked in over 25 U.S. National Parks
 
