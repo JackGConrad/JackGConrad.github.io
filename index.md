@@ -55,7 +55,7 @@ Skills
 
 **Python Tools:** Jupyter Notebook, Scikit-learn, Pandas, Numpy, Spacy, Seaborn, Matplotlib
 
-**Cloud-based Apoplications:** AWS resources, incl. Sagemaker
+**Cloud-based Applications:** AWS resources, incl. Sagemaker
 
 **Project Management Tools:** AzureDevOps (ADO), Teams, Sharepoint
 
