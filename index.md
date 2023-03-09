@@ -14,7 +14,7 @@
     </p> 
     </td>
     <td width="1350">
-    <p align="left"> Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains, especially legal, tax, and news. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering. </p>
+    <p align="left"> Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains, especially for legal, tax, and news. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering. </p>
     </td>
     <td width="600">
     <p>
