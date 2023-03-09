@@ -10,6 +10,7 @@
     <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
     <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>           <br>
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>      <br>
+    <a href="https://www.facebook.com/jack.g.conrad/"><img src="https://www.conradweb.org/~jackg/icons/Facebook.png" width="20"></a>       <br> 
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>           <br>
     <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="https://www.conradweb.org/~jackg/icons/CV.png" width="20"> </a> <br>
     </p> 
