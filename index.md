@@ -236,3 +236,12 @@ Patent Applications
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
 
+Extracurricular Activities
+--------------------------
+
+- Climbed Mount Kilimanjaro to Uhuru Peak (5,895m/19,341 ft), Tanzania, East Africa
+
+- Ran the Chicago Marathon in under 3 3/4 hrs
+
+- Cycle 10K kms/yr
+
