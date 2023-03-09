@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>      <br>
     <a href="https://www.facebook.com/jack.g.conrad/"><img src="https://www.conradweb.org/~jackg/icons/Facebook.png" width="20"></a>       <br> 
     <a href="https://scholar.google.com/citations?hl=en&user=55B4Io4AAAAJ"><img src="https://www.conradweb.org/~jackg/icons/Google_Scholar.png" width="20"></a> <br>
-    <a href="https://patents.google.com/?inventor=%22Jack+G.+Conrad%22"><img src="https://www.conradweb.org/~jackg/Patent.png" width="20"></a> <br>
+    <a href="https://patents.google.com/?inventor=%22Jack+G.+Conrad%22"><img src="https://www.conradweb.org/~jackg/icons/Patent.png" width="20"></a> <br>
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>           <br>
     <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="https://www.conradweb.org/~jackg/icons/CV.png" width="20"> </a> <br>
     </p> 
