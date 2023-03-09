@@ -8,9 +8,10 @@
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"><sub><sup> Minneapolis, MN </sup></sub></a> <br>
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"><sub><sup> +1.612.790.4082 </sup></sub></a> <br>
     <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
-    <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>  <br>
-    <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a> <br>
-    <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>      <br>
+    <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>           <br>
+    <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>      <br>
+    <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>           <br>
+    <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="https://www.conradweb.org/~jackg/icons/CV.png" width="20"> </a> <br>
     </p> 
     </td>
     <td width="1350">
