@@ -240,9 +240,11 @@ Patent Applications
 Extracurricular Activities
 --------------------------
 
-- Climbed Mount Kilimanjaro to Uhuru Peak (5,895m/19,341 ft), Tanzania, East Africa
+- Cycle 10K kms/yr
 
 - Ran the Chicago Marathon in under 3 3/4 hrs
 
-- Cycle 10K kms/yr
+- Cycled through 6 European countries in 6 days (800 kms/500 miles) to raise funds for Young Heroes of Swaziland, an organization supporting AIDS orphans 
+
+- Climbed Mount Kilimanjaro to Uhuru Peak (5,895m/19,341 ft), Tanzania, East Africa
 
