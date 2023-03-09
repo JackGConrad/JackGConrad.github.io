@@ -122,7 +122,7 @@ Professional Community Service
 Publications
 ------------
 
-- Dell Zhang, Frank Schilder, Jack G. Conrad, Masoud Makrehchi, et al., Making a Computational Attorney, To Appear in _Proceedings of the SIAM International Conference on Data Mining (SDM 2023)_, Blue Sky Track (Minneapolis, MN USA), SIAM Press, 2023.
+- Dell Zhang, Frank Schilder, Jack G. Conrad, Masoud Makrehchi, et al., Making a Computational Attorney, In _Proceedings of the SIAM International Conference on Data Mining (SDM 2023)_, Blue Sky Track (Minneapolis, MN USA), SIAM Press, 2023.
 
 - Andrew Vold and Jack G. Conrad, Using Transformers to Improve Answer Retrieval for Legal Questions, In _Proceedings of the 18th International Conference on Artificial Intelligence and Law (ICAIL 2021)_ (Sao Paulo, Brazil) [Online], ACM Press, 245-249, 2021.
 
