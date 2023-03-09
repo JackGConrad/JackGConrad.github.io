@@ -237,8 +237,17 @@ Patent Applications
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, U.S. Patent App. Number 20170364827A1, June 16, 2017.
 
-Extracurricular Activities
---------------------------
+Volunteer Activities
+--------------------
+
+- U.S. Peace Corps, High School Math & Science Instructor, Kingdom of Swaziland (3 years)
+
+- U.S. Corps de la Paix, Professeur du Mathématiques au Lycée, Republic of Togo (2 years)
+
+- Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (5 years)
+
+Extracurricular/Athletic Activities
+-----------------------------------
 
 - Cycle over 10,000 kms/yr
 
