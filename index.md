@@ -28,7 +28,7 @@
 </table>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Passionate about the power of AI transformation in enterprise environments._
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Passionate about the power of AI transformation in enterprise environments._
 
 
 Experience
