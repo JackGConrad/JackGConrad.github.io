@@ -3,7 +3,7 @@
   </thead>
   <tbody>
   <tr>
-     <td width="225">
+     <td width="200">
     <p align="left"> 
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"><sub><sup> Minneapolis, MN </sup></sub></a> <br>
     <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"><sub><sup> +1.612.790.4082 </sup></sub></a> <br>
@@ -15,12 +15,12 @@
     <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="https://www.conradweb.org/~jackg/icons/CV.png" width="20"> </a> <br>
     </p> 
     </td>
-    <td width="1350">
+    <td width="1300">
     <p align="left"> Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains, especially for legal, tax, and news. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering. </p>
     </td>
-    <td width="600">
+    <td width="700">
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="600"> <br>
+    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="700"> <br>
     </p>
     </td>
   </tr>
