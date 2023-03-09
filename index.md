@@ -242,6 +242,8 @@ Extracurricular Activities
 
 - Cycle 10K kms/yr
 
+- Have visited and hiked in over 25 U.S. National Parks
+
 - Ran the Chicago Marathon in under 3 3/4 hrs
 
 - Cycled through 6 European countries in 6 days (800 kms/500 miles) to raise funds for Young Heroes of Swaziland, an organization supporting AIDS orphans 
