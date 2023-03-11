@@ -192,7 +192,7 @@ Workshop Papers/Presentations
 
 - Jack G. Conrad and Jeremy Pickens, [Introduction to LegalAIIA 2019](https://www.ceur-ws.org/Vol-2484/workshop.pdf), _Proceedings of the First International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace [(ICAIL 2019 Workshop -- LegalAIIA)](https://sites.google.com/view/legalaiia2019/home)_ (Montreal, QB, Canada), CEUR-WS Online, pp. 1- , 2019.
 
-- Jack G. Conrad, 30 Years of AI and Law: Legal Data Analytics in the Long View — Looking Back, Looking Forward at the _First International Workshop on Legal Data Analytics and Mining (LeDAM)_, co-located with the 27th ACM International Conference on Information and Knowledge Management (CIKM 2018), (Torino, Italy), Oct. 22, 2018.
+- Jack G. Conrad, [30 Years of AI and Law: Legal Data Analytics in the Long View — Looking Back, Looking Forward](https://www.researchgate.net/publication/328799641_30_Years_of_AI_and_Law_Legal_Data_Analytics_in_the_Long_View_-_Looking_Back_Looking_Forward), at the _First International Workshop on Legal Data Analytics and Mining [(LeDAM)](https://sites.google.com/site/legaldam2018/home)_, co-located with the 27th ACM International Conference on Information and Knowledge Management [(CIKM 2018)](https://www.cikm2018.units.it/), (Torino, Italy), Oct. 22, 2018.
 
 - Jack G. Conrad and Michael Bender, [Semi-Supervised Events Clustering in News Retrieval](https://www.conradweb.org/~jackg/pubs/News2016-IR_CEUR_Conrad_Bender.pdf), _Proceedings of the First International Workshop on Recent Trends in News Retrieval [(NewsIR'16)](https://research.signal-ai.com/newsir16/)_, in conjunction with ECIR 2016 (Padua, Italy), CEUR-WS Online, pp. 21-26, 2016.
 
