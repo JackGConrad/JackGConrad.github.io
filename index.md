@@ -169,19 +169,19 @@ Publications
 Journal Articles
 ----------------
 
-- Michał Araszkiewicz, Kevin Ashley, L. Karl Branting, Jack G. Conrad, Serena Villata, Adam Wyner, Thirty Years of Artificial Intelligence and Law: the Third Decade, _Journal of Artificial Intelligence and Law_, 30(4), Springer, Netherlands, 2022.
+- Michał Araszkiewicz, Kevin Ashley, L. Karl Branting, Jack G. Conrad, Serena Villata, Adam Wyner, [Thirty Years of Artificial Intelligence and Law: the Third Decade](https://link.springer.com/article/10.1007/s10506-022-09327-6), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 30(4), Springer, Netherlands, 2022.
 
-- Jack G. Conrad and L. Karl Branting, Introduction to the Special Issue on Artificial Intelligence and Law, _Journal of Artificial Intelligence and Law_, 26(2), Springer, Netherlands, pp. 98-101, May 2018.
+- Jack G. Conrad and L. Karl Branting, [Introduction to the Special Issue on Artificial Intelligence and Law](https://link.springer.com/article/10.1007/s10506-018-9227-z), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 26(2), Springer, Netherlands, pp. 98-101, May 2018.
 
 - Katie Atkinson, Jack G. Conrad, Anne Gardner, Ted Sichelman, Fifteenth International Conference on Artificial Intelligence and Law (ICAIL 2015), AI Magazine, 37(1), pp. 107-108, 2016.
 
-- Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Jack G. Conrad, et al., A History of AI and Law in 50 papers: 25 years of the International Conference on AI and Law, _Journal of Artificial Intelligence and Law_, 20(3), Springer, Netherlands, pp. 215-319, Sept. 2012.
+- Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Jack G. Conrad, et al., [A History of AI and Law in 50 papers: 25 years of the International Conference on AI and Law](https://link.springer.com/article/10.1007/s10506-012-9131-x), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 20(3), Springer, Netherlands, pp. 215-319, Sept. 2012.
 
-- Jack G. Conrad, E-Discovery Revisited: The Need for Artificial Intelligence Beyond Information Retrieval, _Journal of Artificial Intelligence and Law_, Special Issue on "E-Discovery", 18(4), Springer, Netherlands, pp. 321-345, Dec. 2010.
+- Jack G. Conrad, [E-Discovery Revisited: The Need for Artificial Intelligence Beyond Information Retrieval](https://link.springer.com/article/10.1007/s10506-010-9096-6), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), Special Issue on "E-Discovery", 18(4), Springer, Netherlands, pp. 321-345, Dec. 2010.
 
-- Jack G. Conrad and Cindy P. Schriber, Managing Déjà Vu: Collection Building for Identifying Non-Identical Duplicate Documents, _Journal of the American Society for Information Science and Technology (JASIST)_, 57(7), John Wiley & Sons, Hoboken, NJ, pp. 919-930, 2006.
+- Jack G. Conrad and Cindy P. Schriber, [Managing Déjà Vu: Collection Building for Identifying Non-Identical Duplicate Documents](https://www.conradweb.org/~jackg/pubs/JASIST05_Conrad_Summary.doc), _Journal of the American Society for Information Science and Technology [(JASIST)](https://www.asisonline.org/)_, 57(7), John Wiley & Sons, Hoboken, NJ, pp. 919-930, 2006.
 
-- Jack G. Conrad and Joanne R.S. Claussen, Early User-System Interaction for Database Selection in Massive Domain-specific Online Environments, _Transactions on Information Systems (TOIS)_, 21(1), ACM Press, New York, pp. 94-131, 2003.
+- Jack G. Conrad and Joanne R.S. Claussen, [Early User-System Interaction for Database Selection in Massive Domain-specific Online Environments](https://www.conradweb.org/~jackg/pubs/TOIS03_Conrad.pdf), _Transactions on Information Systems [(TOIS)](https://dl.acm.org/journal/tois)_, 21(1), ACM Press, New York, pp. 94-131, 2003.
 
 Workshop Papers/Presentations
 -----------------------------
