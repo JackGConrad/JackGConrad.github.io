@@ -47,7 +47,7 @@ Experience
 
 - Fostered cross-group collaboration and communication in the process of implementing and deploying technology to meet business needs.
 
-**Senior Research Scientist, R&D, Thomson Reuters** (2008-2011) Minnepolis, MN, USA 
+**Senior Research Scientist, R&D, Thomson Reuters** (2008-2011) Minneapolis, MN, USA 
 
 - Researched and implemented technologies for search and entity-resolution-related applications in large operational environments (leveraging technologies such as information clustering, information retrieval, and information extraction).
 
