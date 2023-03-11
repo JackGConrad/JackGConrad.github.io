@@ -95,7 +95,7 @@ Languages
 Awards
 ------
 
-- **Thomson Reuters Community Champion Award**, 1st Place (2012), in support of the Young Heroes Foundation of Swaziland.
+- **Thomson Reuters Community Champion Award**, 1st Place (2012), in support of the Young Heroes Foundation of Swaziland. [[Article]](https://archive.annual-report.thomsonreuters.com/2012/_files/pdf/tr-corporate-responsibility-annual-report-2012.pdf#page=19)
 
 - **EarthShares Champion of the Year** (2000), for work to expand choice in company’s Employee Giving Campaign.
 
