@@ -173,7 +173,7 @@ Journal Articles
 
 - Jack G. Conrad and L. Karl Branting, [Introduction to the Special Issue on Artificial Intelligence and Law](https://link.springer.com/article/10.1007/s10506-018-9227-z), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 26(2), Springer, Netherlands, pp. 98-101, May 2018.
 
-- Katie Atkinson, Jack G. Conrad, Anne Gardner, Ted Sichelman, Fifteenth International Conference on Artificial Intelligence and Law (ICAIL 2015), AI Magazine, 37(1), pp. 107-108, 2016.
+- Katie Atkinson, Jack G. Conrad, Anne Gardner, Ted Sichelman, Fifteenth International Conference on Artificial Intelligence and Law (ICAIL 2015), _AI Magazine_, 37(1), pp. 107-108, 2016.
 
 - Trevor Bench-Capon, Michał Araszkiewicz, Kevin Ashley, Jack G. Conrad, et al., [A History of AI and Law in 50 papers: 25 years of the International Conference on AI and Law](https://link.springer.com/article/10.1007/s10506-012-9131-x), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 20(3), Springer, Netherlands, pp. 215-319, Sept. 2012.
 
