@@ -67,7 +67,7 @@ Education
 **M.S. in Computer Science, University of Massachusetts--Amherst** 1994
 
 - Specialization in Information Retrieval
-- Thesis on person-company entity search accepted as full-length paper and published at SIGIR
+- Thesis on person-company entity search accepted as full-length paper and published at [SIGIR](https://sigir.org/)
 - Research Assistantship with Prof. Bruce W. Croft (2 years)
 - Teaching Assistantship with Dr. Bill Verts (1 year)
 
