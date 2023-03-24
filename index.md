@@ -18,7 +18,7 @@
     </p> 
     </td>
     <td width="1300">
-    <p align="left"> Deliver critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains, especially for legal, tax, and news. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering. </p>
+    <p align="left"> Manage and engage in the delivery of critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains, especially for legal, tax, and news. Focus on a broad range of technical applications involving AI and ML for textual data.  Published more than 50 peer reviewed research papers. Awarded eight patents. Areas of AI expertise include research in the fields of information retrieval, natural language processing, data mining, named entity resolution, clustering. </p>
     </td>
     <td width="700">
     <p>
@@ -37,6 +37,7 @@ Experience
 ---------
 **Director, Applied Research, TR Labs, Thomson Reuters** (2017-present) Minneapolis, MN, USA
 
+- Direct projects involing deep learning, data mining, and natural language processing to power business systems
 - Focus on a broad range of technical application areas involving artificial intelligence, machine learning and textual data processing
 
 **Lead Research Scientist, R&D/C3, Thomson Reuters** (2013-2016) Minneapolis, MN, USA
