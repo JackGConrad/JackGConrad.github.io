@@ -120,7 +120,11 @@ Professional Community Service
 
 **Conference Review Committees**
 
-- SIGIR, CIKM, ISWC, SAC, ICAIL, JURIX
+- [SIGIR](https://sigir.org/), [CIKM](http://www.cikmconference.org/), [ISWC](https://iswc2023.semanticweb.org/), [SAC](https://dl.acm.org/conference/sac), [ICAIL](https://dl.acm.org/conference/icail), [JURIX](http://jurix.nl/)
+
+**Data Science Competition Judging Committees**
+
+- [MinneMUDAC](https://minneanalytics.org/minnemudac/)
 
 Publications
 ------------
