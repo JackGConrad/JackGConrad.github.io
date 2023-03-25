@@ -124,7 +124,7 @@ Professional Community Service
 
 **Data Science Competition Judging Committees**
 
-- [MUDAC 2020](http://www.mudac.org/mankato/), [MinneMUDAC](https://minneanalytics.org/minnemudac/)
+- [MUDAC 2020](http://www.mudac.org/mankato/), [MinneMUDAC 2023](https://minneanalytics.org/minnemudac/)
 
 Publications
 ------------
