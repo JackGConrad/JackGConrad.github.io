@@ -116,7 +116,7 @@ Professional Community Service
 
 **Journal Editorial Boards**
 
-- _Artificial Intelligence and Law_
+- [_Artificial Intelligence and Law_](https://www.springer.com/journal/10506)
 
 **Conference Review Committees**
 
