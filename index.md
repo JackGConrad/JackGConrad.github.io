@@ -256,6 +256,7 @@ Volunteer Activities
 - President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul
 
+
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
 
 Extracurricular/Athletic Activities
