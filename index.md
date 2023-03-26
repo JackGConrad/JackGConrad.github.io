@@ -108,7 +108,7 @@ Professional Community Service
 
 **Executive Committees**
 
-- International Association for Artificial Intelligence and Law (IAAIL.org)
+- International Association for Artificial Intelligence and Law ([IAAIL.org](http://iaail.org/))
   - President (2014-2015)
   - Vice-President (2012-2013)
   - Executive Committee (2008-2011)
