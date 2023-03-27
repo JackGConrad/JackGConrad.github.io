@@ -256,8 +256,8 @@ Volunteer Activities
 - U.S. Corps de la Paix, Professeur du Mathématiques au Lycée, Republic of Togo (2 years)
 
 - President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
-  - Submitted successful bid to host National Peace Corps Association conference in St. Paul
-
+  - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
+    <br/>
 
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
 
