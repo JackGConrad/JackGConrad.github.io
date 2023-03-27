@@ -171,6 +171,8 @@ Publications
 
 - Jack G. Conrad and Daniel P. Dabney, [A Cognitive Approach to Judicial Opinion Structure: Applying Domain Expertise to Component Analysis](https://www.conradweb.org/~jackg/pubs/ICAIL01_Conrad.pdf), In _Proceedings of 8th International Conference on Artificial Intelligence and Law (ICAIL 2001)_ (St. Louis, Missouri), ACM Press, New York, pp. 1-11, 2001.
 
+- Jack G. Conrad and Mary H. Utt, [A System for Discovering Relationships by Feature Extraction from Text Databases](https://www.conradweb.org/~jackg/pubs/SIGIR94_Conrad.pdf), In W.B. Croft and C.J. van Rijsbergen (Eds.), _Proceedings of the 17th Annual International ACM-SIGIR Conference on Research & Development in Information Retrieval (SIGIR 1994)_ (Dublin, Ireland), Springer-Verlag, London, pp. 260-270, 1994.
+
 Journal Articles
 ----------------
 
