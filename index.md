@@ -248,17 +248,24 @@ Patent Applications
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, [U.S. Patent App. Number 20170364827A1](https://patents.google.com/patent/US20170364827A1/en), June 16, 2017.
 
-Volunteer Activities
---------------------
+Teaching Experience
+-------------------
 
 - U.S. Peace Corps, High School Math & Science Instructor, Kingdom of Swaziland (3 years)
 
 - U.S. Corps de la Paix, Professeur du Mathématiques au Lycée, Republic of Togo (2 years)
 
+- Lab Instructor, First-year Computer Science course, University of Massachusetts--Amherst (1 year)
+
+- English Instructor, First-year University English course, University of British Columbia--Vancouver (3 years)
+
+Volunteer Activities
+--------------------
+
 - President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
-    
-<br/>
+
+- Board Member, Friends of Swaziland/Eswatini (2010-present)
 
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
 
