@@ -253,10 +253,10 @@ Teaching Experience
 
 - U.S. Peace Corps, High School Math & Science Instructor, Kingdom of Swaziland (3 years)
   - Taught 4-5 classes per year under the Swazi/British system, preparing students for their O-level exams.
-<br/>
+
 - U.S. Corps de la Paix, Professeur du Mathématiques au Lycée, Republic of Togo (2 years)
   - Taught math classes for Terminale, Première and Seconde students, in French, preparing them for comprehensive end-of-year exams.
-<br/>
+
 - Lab Instructor, First-year Computer Science course, University of Massachusetts--Amherst (1 year)
 
 - English Instructor, First-year University English course, University of British Columbia--Vancouver (3 years)
@@ -266,7 +266,7 @@ Volunteer Activities
 
 - President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
-<br/>
+
 - Board Member, Friends of Swaziland/Eswatini (2010-present)
 
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
