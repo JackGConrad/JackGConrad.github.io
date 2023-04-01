@@ -261,6 +261,9 @@ Teaching Experience
 
 - English Instructor, First-year University English course, University of British Columbia--Vancouver (3 years)
 
+- English Professor, University English Dept., East China University of Science & Technology (ECUST), Shanghai, Peoples Republic of China (1 year) 
+  - Trained graduate students and taught undergraduate courses in technical and business-related areas, sponsored by Department of Foreign Languages
+
 Volunteer Activities
 --------------------
 
