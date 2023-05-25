@@ -5,16 +5,16 @@
   <tr>
      <td width="200">
     <p align="left"> 
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Location.png" width="20"><sub><sup> Minneapolis, MN </sup></sub></a> <br>
-    <a href=""><img src="https://www.conradweb.org/~jackg/icons/Phone.png" width="20"><sub><sup> +1.612.790.4082 </sup></sub></a> <br>
-    <a href="mailto:jackgconrad@gmail.com"><img src="https://www.conradweb.org/~jackg/icons/Email.png" width="20"> </a> <br>
-    <a href="https://www.twitter.com/JackGConrad"><img src="https://www.conradweb.org/~jackg/icons/Twitter.png" width="20"> </a>           <br>
-    <a href="https://www.linkedin.com/in/jackgconrad/"><img src="https://www.conradweb.org/~jackg/icons/LinkedIn.png" width="20"></a>      <br>
-    <a href="https://www.facebook.com/jack.g.conrad/"><img src="https://www.conradweb.org/~jackg/icons/Facebook.png" width="20"></a>       <br> 
-    <a href="https://scholar.google.com/citations?hl=en&user=55B4Io4AAAAJ"><img src="https://www.conradweb.org/~jackg/icons/Google_Scholar.png" width="20"></a> <br>
-    <a href="https://patents.google.com/?inventor=%22Jack+G.+Conrad%22"><img src="https://www.conradweb.org/~jackg/icons/Patent.png" width="20"></a> <br>
-    <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="https://www.conradweb.org/~jackg/icons/DBLP.png" width="20"></a>           <br>
-    <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="https://www.conradweb.org/~jackg/icons/CV.png" width="20"> </a> <br>
+    <a href=""><img src="./icons/Location.png" width="20"><sub><sup> Minneapolis, MN </sup></sub></a> <br>
+    <a href=""><img src="./icons/Phone.png" width="20"><sub><sup> +1.612.790.4082 </sup></sub></a> <br>
+    <a href="mailto:jackgconrad@gmail.com"><img src="./icons/Email.png" width="20"> </a> <br>
+    <a href="https://www.twitter.com/JackGConrad"><img src="./icons/Twitter.png" width="20"> </a>           <br>
+    <a href="https://www.linkedin.com/in/jackgconrad/"><img src="./icons/LinkedIn.png" width="20"></a>      <br>
+    <a href="https://www.facebook.com/jack.g.conrad/"><img src="./icons/Facebook.png" width="20"></a>       <br> 
+    <a href="https://scholar.google.com/citations?hl=en&user=55B4Io4AAAAJ"><img src="./icons/Google_Scholar.png" width="20"></a> <br>
+    <a href="https://patents.google.com/?inventor=%22Jack+G.+Conrad%22"><img src="./icons/Patent.png" width="20"></a> <br>
+    <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="./icons/DBLP.png" width="20"></a>           <br>
+    <a href="http://www.conradweb.org/career/JackGConrad_CV.pdf"><img src="./CV.png" width="20"> </a> <br>
     </p> 
     </td>
     <td width="1300">
@@ -22,7 +22,7 @@
     </td>
     <td width="700">
     <p>
-    <img src="https://www.conradweb.org/Jack_Conrad_Baar.jpg" width="700"> <br>
+    <img src="./Jack_Conrad_Baar.jpg" width="700"> <br>
     </p>
     </td>
   </tr>
