@@ -64,18 +64,18 @@ Skills
 
 Education
 ---------
-**M.S. in Computer Science, University of Massachusetts--Amherst** 1994
+**M.S. in Computer Science, University of Massachusetts--Amherst**
 
 - Specialization in Information Retrieval
 - Thesis on person-company entity search accepted as full-length paper and published at [SIGIR](https://sigir.org/)
 - Research Assistantship with Prof. Bruce W. Croft (2 years)
 - Teaching Assistantship with Dr. Bill Verts (1 year)
 
-**M.A. in English/Linguistics, University of British Columbia--Vancouver** 1984
+**M.A. in English/Linguistics, University of British Columbia--Vancouver** 
 
 - Teaching Assistantship: Taught first-year English course at UBC during degree work (3 years)
 
-**B.S. in Electrical Engineering, Marquette University** (Milwaukee, WI) 1980
+**B.S. in Electrical Engineering, Marquette University** (Milwaukee, WI)
 
 - Honors: _Summa Cum Laude_
 - Minor: English
