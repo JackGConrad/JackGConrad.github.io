@@ -14,7 +14,7 @@
     <a href="https://scholar.google.com/citations?hl=en&user=55B4Io4AAAAJ"><img src="./icons/Google_Scholar.png" width="20"></a> <br>
     <a href="https://patents.google.com/?inventor=%22Jack+G.+Conrad%22"><img src="./icons/Patent.png" width="20"></a> <br>
     <a href="https://dblp.org/pid/w/JackGConrad.html"><img src="./icons/DBLP.png" width="20"></a>           <br>
-    <a href="./cv/JackGConrad_CV.pdf"><img src="./CV.png" width="20"></a> <br>
+    <a href="./cv/JackGConrad_CV.pdf"><img src="./icons/CV.png" width="20"></a> <br>
     </p> 
     </td>
     <td width="1300">
