@@ -279,7 +279,7 @@ Extracurricular/Athletic Activities
 
 - Cycle over 10,000 kms/yr
 
-- Have visited and hiked in over 25 U.S. National Parks
+- Explored and hiked in over 25 U.S. National Parks
 
 - Ran the Chicago Marathon in under 3 3/4 hrs
 
