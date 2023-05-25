@@ -22,7 +22,7 @@
     </td>
     <td width="700">
     <p>
-    <img src="./Jack_Conrad_Baar.jpg" width="700"> <br>
+    <img src="./photos/Jack_Conrad_Baar.jpg" width="700"> <br>
     </p>
     </td>
   </tr>
