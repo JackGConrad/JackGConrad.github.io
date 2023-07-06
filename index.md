@@ -193,7 +193,7 @@ Journal Articles
 Workshop Papers/Presentations
 -----------------------------
 
-- Jack G. Conrad and Daniel W. Linna Jr., Introduction to LegalAIIA 2023, To Appear in _Proceedings of the Third International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace [(ICAIL 2023 Workshop -- LegalAIIA)](https://sites.google.com/view/legalaiia2023/home)_ (Braga, Portugal), CEUR-WS Online, pp. 1- , 2023.
+- Jack G. Conrad and Daniel W. Linna Jr., [Introduction to LegalAIIA 2023](https://ceur-ws.org/Vol-3423/paper1.pdf), _Proceedings of the Third International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace [(ICAIL 2023 Workshop -- LegalAIIA)](https://sites.google.com/view/legalaiia2023/home)_ (Braga, Portugal), CEUR-WS Online, pp. 1-2, 2023.
 
 - Jack G. Conrad, The Impact of ChatGPT on Legal Research: The Missing Pieces of the Puzzle, International Legal Informatics Symposium _[(IRIS 2023)](https://iris-conferences.eu/iris23wien)_, (Vienna, Austria), March 28, 2023.
 
@@ -225,26 +225,26 @@ Tutorials
 Patents
 -------
 
-1. Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, [U.S. Patent Number 11,449,218](https://patents.google.com/patent/US11449218B2/en), September 20, 2022.
+1. Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, [U.S. Patent App. Number 11,663,254](https://patents.google.com/patent/US11663254B2/en), May 30, 2023.
 
-2. Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, [U.S. Patent Number 11,222,027](https://patents.google.com/patent/US11222027B2/en), January 11, 2022.
+2. Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, [U.S. Patent Number 11,449,218](https://patents.google.com/patent/US11449218B2/en), September 20, 2022.
 
-3. Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, [U.S. Patent Number 10,650,058](https://patents.google.com/patent/US10650058B2/en), May 12, 2020.
+3. Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, [U.S. Patent Number 11,222,027](https://patents.google.com/patent/US11222027B2/en), January 11, 2022.
 
-4. Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, [U.S. Patent Number 9,600,509](https://patents.google.com/patent/US9600509B2/en), May 21, 2017.
+4. Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, [U.S. Patent Number 10,650,058](https://patents.google.com/patent/US10650058B2/en), May 12, 2020.
 
-5. Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, [U.S. Patent Number 9,483,472](https://patents.google.com/patent/US9483472B2/en), November 1, 2016.
+5. Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, [U.S. Patent Number 9,600,509](https://patents.google.com/patent/US9600509B2/en), May 21, 2017.
 
-6. Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, [U.S. Patent Number 9,436,665](https://patents.google.com/patent/US9436665B2/en), September 6, 2016.
+6. Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, [U.S. Patent Number 9,483,472](https://patents.google.com/patent/US9483472B2/en), November 1, 2016.
 
-7. Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, [U.S. Patent Number 9,367,604](https://patents.google.com/patent/US9367604B2/en), June 14, 2016.
+7. Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, [U.S. Patent Number 9,436,665](https://patents.google.com/patent/US9436665B2/en), September 6, 2016.
 
-8. Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, [U.S. Patent Number 7,809,695](https://patents.google.com/patent/US7809695B2/en), October 5, 2010.
+8. Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, [U.S. Patent Number 9,367,604](https://patents.google.com/patent/US9367604B2/en), June 14, 2016.
+
+9. Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, [U.S. Patent Number 7,809,695](https://patents.google.com/patent/US7809695B2/en), October 5, 2010.
 
 Patent Applications
 -------------------
-
-- Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, [U.S. Patent App. Number 20170235820A1](https://patents.google.com/patent/US20170235820A1/en), August 17, 2017.
 
 - Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, [U.S. Patent App. Number 20170364827A1](https://patents.google.com/patent/US20170364827A1/en), June 16, 2017.
 
