@@ -270,16 +270,20 @@ Volunteer Activities
 - President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
 
+
 - Board Member. [Peace Corps Legacy Association](https://sites.google.com/view/peace-corps-legacy-plaza/home) (2023-present)
   - Managing the creation of the Peace Corps Plaza within the National Service Park being constructed near Rochester, MN
+
 
 - Board Member, Friends of Swaziland/Eswatini (2010-present)
 
 - Citizen Advocate, [Bicycle Alliance of Minnesota (BikeMN)](https://www.bikemn.org/ride-minnesota/maps-and-resources/) (2023-present)
   - Helping to launch a special "Share the Road" license plate for the state of Minnesota
 
+
 - Board Secretary, McCarthy Family Heritage Forever Foundation (2023-present)
   - Overseeing the formation of a living, operating, historic farm & education center following the passing of Patrick McCarthy, the last of 4 generations of the McCarthy family in Minnesota
+
 
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
 
