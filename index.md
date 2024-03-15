@@ -275,6 +275,9 @@ Volunteer Activities
 
 - Board Member, Friends of Swaziland/Eswatini (2010-present)
 
+- Citizen Advocate, [Bicycle Alliance of Minnesota (BikeMN)](https://www.bikemn.org/ride-minnesota/maps-and-resources/) (2023-present)
+  - Helping to launch a special "Share the Road" license plate for the state of Minnesota
+
 - Board Secretary, McCarthy Family Heritage Forever Foundation (2023-present)
   - Overseeing the formation of a living, operating, historic farm & education center following the passing of Patrick McCarthy, the last of 4 generations of the McCarthy family in Minnesota
 
