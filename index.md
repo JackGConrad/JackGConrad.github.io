@@ -267,7 +267,7 @@ Teaching Experience
 Volunteer Activities
 --------------------
 
-- President, [Minnesota Returned Peace Corps Volunteers](https://www.mnrpcv.org/) (MN RPCV) (1996-97) 
+- President, [Minnesota Returned Peace Corps Volunteers (MN RPCV)](https://www.mnrpcv.org/) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
 
 
