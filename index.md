@@ -267,7 +267,7 @@ Teaching Experience
 Volunteer Activities
 --------------------
 
-- President, Minnesota Returned Peace Corps Volunteers (MN RPCV) (1996-97) 
+- President, [Minnesota Returned Peace Corps Volunteers](https://www.mnrpcv.org/) (MN RPCV) (1996-97) 
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
 
 
@@ -275,7 +275,7 @@ Volunteer Activities
   - Managing the creation of the Peace Corps Plaza within the National Service Park being constructed near Rochester, MN
 
 
-- Board Member, Friends of Swaziland/Eswatini (2010-present)
+- Board Member, [Friends of Swaziland/Eswatini](https://www.friendsofeswatini.org/cpages/home) (2010-present)
 
 - Citizen Advocate, [Bicycle Alliance of Minnesota (BikeMN)](https://www.bikemn.org/ride-minnesota/maps-and-resources/) (2023-present)
   - Helping to launch a special "Share the Road" license plate for the state of Minnesota
