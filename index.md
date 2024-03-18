@@ -282,7 +282,7 @@ Volunteer Activities
 
 
 - Board Secretary, McCarthy Family Heritage Forever Foundation (2023-present)
-  - Overseeing the formation of a living, operating, historic farm & education center following the passing of Patrick McCarthy, the last of 4 generations of the McCarthy family in Minnesota
+  - Overseeing the formation of a living, operating, historic farm & education center following the passing of the last of 4 generations of the McCarthy family in Minnesota
 
 
 - Chess Club Moderator, FSCS Middle & Primary School, Eagan, MN (2013-2018)
