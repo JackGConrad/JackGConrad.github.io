@@ -195,6 +195,8 @@ Journal Articles
 Workshop Papers/Presentations
 -----------------------------
 
+- Jack G. Conrad, 40 Years of AI and Law: Past Capabilities, Present Applications, and Future Directions, [School of AI and Law](https://ai-and-law-school.github.io/schedule/), Dhirubhai Ambani Centre for Technology and Law, D. A. Institute of Informaion and Communication (DA-IICT), (Gandhinagar, Gujarat, India), April 5, 2024.
+
 - Jack G. Conrad and Daniel W. Linna Jr., [Introduction to LegalAIIA 2023](https://ceur-ws.org/Vol-3423/paper1.pdf), _Proceedings of the Third International Workshop on AI and Intelligent Assistance for Legal Professionals in the Digital Workplace [(ICAIL 2023 Workshop -- LegalAIIA)](https://sites.google.com/view/legalaiia2023/home)_ (Braga, Portugal), CEUR-WS Online, pp. 1-2, 2023.
 
 - Jack G. Conrad, The Impact of ChatGPT on Legal Research: The Missing Pieces of the Puzzle, International Legal Informatics Symposium _[(IRIS 2023)](https://iris-conferences.eu/iris23wien)_, (Vienna, Austria), March 28, 2023.
