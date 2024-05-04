@@ -275,7 +275,7 @@ Volunteer Activities
   - Submitted successful bid to host National Peace Corps Association conference in St. Paul 
 
 
-- Board Member. [Peace Corps Legacy Association](https://sites.google.com/view/peace-corps-legacy-plaza/home) (2023-present)
+- Board Member. [Peace Corps Legacy Association](http://www.peacecorpspark.org) (2023-present)
   - Managing the creation of the Peace Corps Plaza within the National Service Park being constructed near Rochester, MN
 
 
