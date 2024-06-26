@@ -229,28 +229,25 @@ Tutorials
 Patents
 -------
 
-1. Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, [U.S. Patent App. Number 11,663,254](https://patents.google.com/patent/US11663254B2/en), May 30, 2023.
+1. Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, [EU Patent Number EP3417409B1](https://patentimages.storage.googleapis.com/6f/56/ee/3fa0a24b109c4c/EP3417409B1.pdf) [U.S. Patent App. Number 20170364827A1](https://patents.google.com/patent/US20170364827A1/en), June 7, 2023.
 
-2. Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, [U.S. Patent Number 11,449,218](https://patents.google.com/patent/US11449218B2/en), September 20, 2022.
+2. Jack G. Conrad, Michael J. Bender, System and Engine for Seeded Clustering of News Events, Thomson Reuters, Research & Development, [U.S. Patent App. Number 11,663,254](https://patents.google.com/patent/US11663254B2/en), May 30, 2023.
 
-3. Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, [U.S. Patent Number 11,222,027](https://patents.google.com/patent/US11222027B2/en), January 11, 2022.
+3. Jack G. Conrad, Mans Olof-Ors, Peter Pircher, Systems and Methods for Data Evaluation and Classification, Thomson Reuters, TR Labs, [U.S. Patent Number 11,449,218](https://patents.google.com/patent/US11449218B2/en), September 20, 2022.
 
-4. Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, [U.S. Patent Number 10,650,058](https://patents.google.com/patent/US10650058B2/en), May 12, 2020.
+4. Domingo Huh, Julian Brooke, Elnaz Davoodi, Jack G. Conrad, Systems and Methods for Context Aware Searching, Thomson Reuters, TR Labs, [U.S. Patent Number 11,222,027](https://patents.google.com/patent/US11222027B2/en), January 11, 2022.
 
-5. Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, [U.S. Patent Number 9,600,509](https://patents.google.com/patent/US9600509B2/en), May 21, 2017.
+5. Jack G. Conrad and Joanne R.S. Claussen, Information Retrieval Systems with Database-Selection Aids, Thomson Reuters, Research & Development, [U.S. Patent Number 10,650,058](https://patents.google.com/patent/US10650058B2/en), May 12, 2020.
 
-6. Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, [U.S. Patent Number 9,483,472](https://patents.google.com/patent/US9483472B2/en), November 1, 2016.
+6. Jack G. Conrad, Christopher C. Dozier, Sriharsha Veeramachaneni, Systems, Methods, and Software for Entity Relationship Resolution, Thomson Reuters, Research & Development, [U.S. Patent Number 9,600,509](https://patents.google.com/patent/US9600509B2/en), May 21, 2017.
 
-7. Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, [U.S. Patent Number 9,436,665](https://patents.google.com/patent/US9436665B2/en), September 6, 2016.
+7. Jack G. Conrad, Forrest Rhoads, Dan Dabney, Bob Haschart, Howard Turtle, Kinley Larntz, Po Yang, and Dan Gannon, System and Method of Processing Formatted Text Documents in a Database, Thomson Reuters, Research & Development, [U.S. Patent Number 9,483,472](https://patents.google.com/patent/US9483472B2/en), November 1, 2016.
 
-8. Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, [U.S. Patent Number 9,367,604](https://patents.google.com/patent/US9367604B2/en), June 14, 2016.
+8. Peter Pircher, Jochen Lothar Leidner, Aaron Cooper, Dan Dabney, Jonathan Medin, and Jack G. Conrad, Synchronizing Annotations between Printed Documents and Electronic Documents, Thomson Reuters, TR Global Resources, [U.S. Patent Number 9,436,665](https://patents.google.com/patent/US9436665B2/en), September 6, 2016.
 
-9. Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, [U.S. Patent Number 7,809,695](https://patents.google.com/patent/US7809695B2/en), October 5, 2010.
+9. Qiang Lu, Jack G. Conrad, Michael Dahn, William M. Keenan, Systems, Methods, and Interfaces for Extending Legal Search Results, Thomson Reuters, Research & Development, [U.S. Patent Number 9,367,604](https://patents.google.com/patent/US9367604B2/en), June 14, 2016.
 
-Patent Applications
--------------------
-
-- Jack G. Conrad, Khalid Al-Kofahi, Scenario Analytics System, Thomson Reuters, Research & Development, [U.S. Patent App. Number 20170364827A1](https://patents.google.com/patent/US20170364827A1/en), June 16, 2017.
+10. Jack G. Conrad, Joanne C. Claussen, Jie Lin, Information Retrieval Systems with Duplicate Document Detection and Presentation Functions, Thomson Reuters, Research & Development, [U.S. Patent Number 7,809,695](https://patents.google.com/patent/US7809695B2/en), October 5, 2010.
 
 Teaching Experience
 -------------------
@@ -285,7 +282,7 @@ Volunteer Activities
   - Helping to launch a special "Share the Road" license plate for the state of Minnesota
 
 
-- Board Secretary, McCarthy Family Heritage Forever Foundation (2023-present)
+- Board Secretary, [McCarthy Family Heritage Forever Foundation](http://www.mccarthyfamilyhabitat.org) (2023-present)
   - Overseeing the formation of a living, operating, historic farm & education center following the passing of the last of 4 generations of the McCarthy family in Minnesota
 
 
