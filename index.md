@@ -176,7 +176,7 @@ Publications
 Journal Articles
 ----------------
 
-- Jack G. Conrad, Debasis Ganguly, Kripabandhu Ghosh, Saptarshi Ghosh, [Introduction to the Special Issue on Applications and Evaluation of Large Language Models in the Legal Domain](https://www.linkedin.com/feed/update/urn:li:activity:7134373597887811584/), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 33(4), Springer, Netherlands, November 2025.
+- Jack G. Conrad, Debasis Ganguly, Kripabandhu Ghosh, Saptarshi Ghosh, [Introduction to the Special Issue on Applications and Evaluation of Large Language Models in the Legal Domain](https://link.springer.com/collections/cdbhcfcgae), [_Journal of Artificial Intelligence and Law_]([https://www.springer.com/journal/10506]), 33(4), Springer, Netherlands, November 2025.
 
 - Michał Araszkiewicz, Kevin Ashley, L. Karl Branting, Jack G. Conrad, Serena Villata, Adam Wyner, [Thirty Years of Artificial Intelligence and Law: the Third Decade](https://link.springer.com/article/10.1007/s10506-022-09327-6), [_Journal of Artificial Intelligence and Law_](https://www.springer.com/journal/10506), 30(4), Springer, Netherlands, 2022.
 
